@@ -1,0 +1,14 @@
+2024-07-29 02:52:55.853 +03:00 [INF] Executed DbCommand (20ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-29 02:52:55.968 +03:00 [INF] User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 02:52:56.386 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 02:52:56.386 +03:00 [INF] Hosting environment: Development
+2024-07-29 02:52:56.386 +03:00 [INF] Content root path: C:\Users\User\OneDrive\Desktop\x курс работы\Notes.Project\Notes.Backend\Notes.WebApi
+2024-07-29 02:52:56.462 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44367/index.html - null null
+2024-07-29 02:52:57.297 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44367/index.html - 200 null text/html;charset=utf-8 841.5972ms
+2024-07-29 02:52:57.392 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44367/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-29 02:52:57.400 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44367/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 3.0608ms
+2024-07-29 02:52:57.455 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44367/_vs/browserLink - null null
+2024-07-29 02:52:58.625 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44367/_vs/browserLink - 200 null text/javascript; charset=UTF-8 1170.1903ms
+2024-07-29 02:52:58.832 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44367/swagger/v1/swagger.json - null null
+2024-07-29 02:52:59.022 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44367/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 190.2055ms
